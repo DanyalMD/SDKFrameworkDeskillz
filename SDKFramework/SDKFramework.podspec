@@ -5,7 +5,7 @@ Pod::Spec.new do |spec|
   spec.name         = "SDKFramework"
   spec.version      = "1.0.0"
   spec.summary      = "A short meangningful description of SDKFramework."
-  spec.description  = "The SDK specifically written for Gaming Profiles"
+  spec.description  = "The SDK specifically written for Gaming Profiles.Gaming SDK is under construction who is doing."
   spec.homepage   = "https://github.com/DanyalMD/SDKFrameworkDeskillz"
   spec.license   = "MIT"
   spec.author       = { "Danyal Arshad" => "danyal.arshad1212@gmail.com" }
