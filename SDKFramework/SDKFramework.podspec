@@ -12,7 +12,8 @@ Pod::Spec.new do |spec|
   spec.platform   = :ios, "12.0"
   spec.source    = { :git => "https://github.com/DanyalMD/SDKFrameworkDeskillz.git"}
   spec.swift_versions = "4.0"
-  spec.source_files = "SDKFramework/SDKFramework/**/*.{h,swift}"
+  spec.source_files = 'SDKFrameworkDeskillz/SDKFramework/**/*.{h,swift}'
+  #spec.source_files = "SDKFramework/SDKFramework/**/*.{h,swift}"
   spec.dependency "IQKeyboardManagerSwift"
   
 end
